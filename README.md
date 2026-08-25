@@ -1,3 +1,5 @@
+
+
 # 目录
 
 - [T-GCN概述](#T-GCN概述)
@@ -72,7 +74,7 @@ T-GCN模型主要由两大模块构成，分别为图卷积网络（Graph Convol
     ├─SZ-taxi          # SZ-taxi数据集
         ├─adj.csv      # 邻接矩阵
         └─feature.csv  # 特征矩阵
-    ├─Los-loop         # Los-loop数据集s
+    ├─Los-loop         # Los-loop数据集
         ├─adj.csv      # 邻接矩阵
         └─feature.csv  # 特征矩阵
 ...
